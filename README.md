@@ -1,16 +1,21 @@
-### Hi there 👋
+#### Biography
 
-<!--
-**wabrams/wabrams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm from Austin, TX studying in Boulder, CO. In my free time I'm either programming, playing video games, or out riding my bike.
 
-Here are some ideas to get you started:
+#### Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+University of Colorado Boulder: Electrical and Computer Engineering (BS), Computer Science (BS)
+
+#### Languages
+
+I spend most of my time programming in C / C++. On the side, I do a fair amount in Python and Java.
+
+#### See Also
+
+ * [LinkedIn](https://www.linkedin.com/in/wabrams/)
+ * [HackerRank](https://www.hackerrank.com/wabrams)
+
+#### Currently Working On
+ * Parallel Computing (CUDA)
+ * Computer Graphics (OpenGL)
+ * Concurrent Programming (C++)
