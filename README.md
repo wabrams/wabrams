@@ -16,6 +16,10 @@ I spend most of my time programming in C / C++. On the side, I do a fair amount 
  * [HackerRank](https://www.hackerrank.com/wabrams)
 
 #### Currently Working On
- * Parallel Computing (CUDA)
+ * FPGA Design (VLSI)
  * Computer Graphics (OpenGL)
  * Concurrent Programming (C++)
+
+#### Doing, but not Working On
+ * Docker (using Jellyfin for a home media server)
+ * Parallel Computing (CUDA)
